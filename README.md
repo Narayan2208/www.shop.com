@@ -52,5 +52,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify a
 
 ## Contact
 
-If you have any questions or inquiries about SHOP.com, please feel free to reach out to any of the project team members: Sourav, Soumya, Narayan, or Barsha. You can also contact us collectively at [your-email@example.com].
+If you have any questions or inquiries about SHOP.com, please feel free to reach out to any of the project team members: Sourav, Soumya, Narayan, or Barsha. You can also contact us collectively at [narayandutta2208.com].
 
